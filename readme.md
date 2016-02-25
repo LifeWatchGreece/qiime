@@ -82,4 +82,4 @@ password: kodikos
 
 
 
-The R vLab is open-sourced software licensed under the MIT license.
+The Genetics vLab is open-sourced software licensed under the MIT license.
